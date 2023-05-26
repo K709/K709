@@ -13,9 +13,9 @@
 <p align="center">My friends call me Mike, but you can also call me that.
   I'm from IT Department, still enrolling in University.</p>
 
-<p align="center">⚡ Experienced in Image processing</p>
+<p align="center">⚡ Still learning in image processing</p>
 
-<p align="center">💗 I Like learning from code from scratch</p>
+<p align="center">💗 I like to learn how to code something from scratch</p>
 
 <p align="center">🎵 Art is my forte, but i can do more than that</p>
 
